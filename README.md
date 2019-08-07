@@ -24,4 +24,4 @@ The scope of this project will only encompass companies headquartered in Silicon
 > * did the company IPO, achieve Series D or take on Private equity
 
 **Visulaizations**
-> *https://startup-success-viz.herokuapp.com/
+> https://startup-success-viz.herokuapp.com/
